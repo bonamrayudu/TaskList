@@ -225,7 +225,7 @@ function Footer() {
       <p>
         Technologies and React concepts used: React, JSX, props, useState,
         component composition, conditional rendering, array methods (map,
-        filter), event handling and coding.
+        filter), event handling and error hanling.
       </p>
     </footer>
   );
